@@ -69,8 +69,8 @@ main .main-container {
   }
 }
 main .main-page {
-  padding-top: 18px;
-  flex: 100%;
+  padding-top: 30px;
+  flex: 80%;
 }
 main .sidebar {
   flex: 100%;
