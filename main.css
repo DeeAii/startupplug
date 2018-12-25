@@ -59,9 +59,8 @@ header .recommend-action {
 
 @media (min-width: 992px) {
   header .recommend-action {
-    disblay: block;
-    
-  }
+    display: block;
+     }
 }
 
 main .main-container {
