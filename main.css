@@ -69,8 +69,8 @@ main .main-container {
   }
 }
 main .main-page {
-  padding-top: 30px;
-  flex: 80%;
+  padding-top: 300px;
+  flex: 100%;
 }
 main .sidebar {
   flex: 100%;
@@ -78,7 +78,7 @@ main .sidebar {
 @media (min-width: 992px) {
   main .main-page {
     flex: auto;
-    padding-top: 100px;
+    padding-top: 60px;
     margin-right: 60px;
   }
   main .sidebar {
