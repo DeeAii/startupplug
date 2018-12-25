@@ -4,7 +4,7 @@ body {
   line-height: 1.4;
 }
 header {
-  height: 90px;
+  height: 80px;
   background: #ffffff;
   overflow: auto;
   padding: 20px 0;
@@ -59,7 +59,7 @@ header .recommend-action {
 
 @media (min-width: 992px) {
   header .recommend-action {
-    margin-left: 30px;  height: 25px;
+    margin-left: block;  height: 25px;
     
   }
 }
