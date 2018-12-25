@@ -59,7 +59,7 @@ header .recommend-action {
 
 @media (min-width: 992px) {
   header .recommend-action {
-    margin-right: 30px;  height: 25px;
+    margin-left: 30px;  height: 25px;
     
   }
 }
