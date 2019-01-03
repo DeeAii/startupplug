@@ -43,9 +43,7 @@ header .header-right > *::after {
 header .header-right .social-icons img {
   height: 35px;
   margin: 2.5px 0; 
-}
-header .header-right.social-icons:hover {
-  opacity: 0.7
+
 }
 header .recommend-action {
   border: 0;
