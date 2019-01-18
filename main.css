@@ -10,9 +10,6 @@ header {
   padding: 20px 0;
   margin-bottom: 40px;
   box-shadow: 0 2px 10px #33333333;
-  color: -webkit-link;
-  cursor: pointer;
-  text-decoration: none;
 }
 
 
@@ -45,8 +42,7 @@ header .header-right > *::after {
 }
 header .header-right .social-icons img {
   height: 35px;
-  margin: 2.5px 0; 
-
+  margin: 2.5px 0;
 }
 header .recommend-action {
   border: 0;
